@@ -13,4 +13,16 @@ function Hero(props) {
 	);
 }
 
-render(<Hero name="harshit"/>, root);
+let name = new URL(location.href).searchParams.get("name");
+
+console.log(name)
+render(<Hero name={name}/>, root);
+
+
+// class App extends React.Component{
+// 	render(){
+// 		return <h1>Welcome to our website!</h1>
+// 	}
+// }
+// // if i un comment this render call App component get rendered
+// render(<App/>, root)

@@ -1,0 +1,65 @@
+
+step 1
+
+revise everything learnt uptil now
+
+like
+react.creatElement
+reactDOM.render
+JSX -> console.log(<h1>name <a>child?</a><h1>);
+JSX expresions
+components
+props
+
+step 2 
+
+stick with a single resource and learn the basics
+
+step 3
+
+make a quick project !
+
+
+
+
+
+1/25/2020
+
+following : https://reactjs.org/docs/hello-world.html
+
+todo
+
+CSS
+GATSBY JAM STACK COMMERCE
+react
+typescript
+
+EXTENSION DEV
+GAME DEV
+
+oh my god do big codebases scare me !
+
+i havent made any web app until now
+
+its been 3 - 4 years i have got to start
+
+i have to seriously make something
+
+i am just enjoying now working
+
+i have to start working oh no
+
+make a website anything just something
+	- with just html and css
+
+make a simple js, html, sass app
+
+make my own blog and youtube channel
+
+react, graphQL bla bla etc
+then gatsby then ecommerce app
+
+use module bundlers and cloud computing and learn javascript
+
+
+or iske sath mujhe game dev, open source, competitive coding, database, compiler design, cs50 etc etc ye sabh bhi karna he
